@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.ul_links {
+	font-size: 12px;
+}
+
+.wiki_content {
+	height: 200px;
+}
+
+.footer {
+	color: #C5C5C5;
+	font-size: 12px;
+}
